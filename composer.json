@@ -11,15 +11,15 @@
     },
     "authors": [
         {
-            "name": "Flarumtr",
-            "email": "flarumtr@gmail.com",
-            "homepage": "https://flarumtr.com/",
+            "name": "Sonsuzus",
+            "email": "sonsuzus@gmail.com",
+            "homepage": "https://sonsuz.us/",
             "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/flarumtr/flarum-ext-mobile-search/issues",
-        "source": "https://github.com/flarumtr/flarum-ext-mobile-search"
+        "issues": "https://github.com/sonsuzus/flarum-ext-mobile-search/issues",
+        "source": "https://github.com/sonsuzus/flarum-ext-mobile-search"
     },
     "extra": {
         "flarum-extension": {
