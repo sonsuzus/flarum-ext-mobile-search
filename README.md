@@ -6,7 +6,7 @@ A simple extension to move the search bar to mobile homepage.
 ![search](https://i.imgur.com/hPO5nl9.png)
 
 ## Install
-`composer require flarumtr/flarum-ext-mobile-search`
+`composer require sonsuzus/flarum-ext-mobile-search`
 
 ## Update
-`composer update flarumtr/flarum-ext-mobile-search`
+`composer update sonsuzus/flarum-ext-mobile-search`
